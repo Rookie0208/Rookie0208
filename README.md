@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Rookie0208.
-- 👀 I’m interested in Full Stack Development.
-- 🌱 I’m currently learning Web Development.
-- 💞️ I’m looking to collaborate on any project related to Frontend and Backend.
-- 📫 You can contact me through me amitsr2612@gmail.com
+- 👋 Hi, I’m Amit Rawat.
+- 👀 I’m interested in software development and Web Development. 
+- 🌱 I’m currently learning Web Development and practising competitive programing in c++.
+- 💞️ I’m looking to collaborate on any project related to Frontend and Backend and Cpp. 
+- 📫 You can contact me through me amitsr0208@gmail.com
 
 <!---
 Rookie0208/Rookie0208 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
