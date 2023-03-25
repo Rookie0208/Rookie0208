@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Amit Rawat.
+- 👋 Hi, I’m Amit Singh Rawat.
 - 👀 I’m interested in software development and Web Development. 
 - 🌱 I’m currently learning Web Development and practising competitive programing in c++.
 - 💞️ I’m looking to collaborate on any project related to Frontend and Backend and Cpp. 
